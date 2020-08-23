@@ -8,3 +8,7 @@ This dashboad contains a bar chart of the top ten bacterial species in a volunte
 This dashboard also contains a bubble chart to visualize the relative frequency of all the bacterial species found in the navel.
 
 ![](/Images/bubblechart.PNG)
+
+This dashboard has a demographic panel that display information pertaining the participant.
+
+![](/Images/demographic.PNG)
